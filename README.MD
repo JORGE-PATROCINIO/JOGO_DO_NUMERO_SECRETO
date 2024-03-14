@@ -11,7 +11,7 @@
    ###### Técnicas aplicadas:
 
    - JS
-   - ARRYS JS
+   - ARRAYS JS
    - RESPONSIVE VOICE
    - ALTERAR DOM PELO JS
 
